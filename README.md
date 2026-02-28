@@ -1,1 +1,24 @@
-# web-01
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web Dev:Lab1</title>
+</head>
+
+<body>
+
+    <center>
+        <h1>Welcome to my Web Site</h1>
+        <h3><u>Web Development (Lab1)</u></h3>
+    </center>
+<br>
+
+    
+
+    <p><b>Full name:</b> Hammi Messaoud</p>
+    <p><b>Age:</b> 20 years old</p>
+    <p><b>Class:</b> 2<sup>nds</sup> LMD computer Science</p>
+    <p><b>University:</b> University of EL OUED</p>
+
+</body>
+</html>
